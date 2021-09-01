@@ -6,6 +6,6 @@ git branch -M main
 git remote add origin https://github.com/cyk88888888/nodeJsCmd.git
 git push -u origin master
 git token: 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
-test
+
 git remote -v
 设置git提交拉去仓库地址：git remote set-url origin git@github.com:cyk88888888/nodeJsCmd.git
